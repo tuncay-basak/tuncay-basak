@@ -11,6 +11,7 @@ I’ve been interested in software and computer systems for over a decade. After
 - **[helix](https://github.com/tuncay-basak/helix)** — an experimental runtime project currently in the design and exploration phase
 
 🧠 **Background**
+
 Low-level programming (C, Rust), Linux, concurrency, and type-driven API design.  
 Backend-oriented web development (JavaScript, TypeScript, Node.js).  
 Comfortable joining existing codebases and working within established constraints.
