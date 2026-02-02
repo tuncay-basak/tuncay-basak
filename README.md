@@ -1,31 +1,16 @@
-Hi, I'm Tuncay 👋  
+# Hi, I’m Tuncay 👋
 
-I'm a systems-oriented developer with a strong interest in low-level programming,
-software robustness, and statically enforced correctness.
+I’m a systems-oriented software developer interested in building robust, explicit, and maintainable systems.
 
-### Areas of focus
-- C and Unix systems programming
-- Memory safety, correctness, and defensive design
-- Concurrency and synchronization primitives
-- Rust and type-driven API design
-- Explicit architectures and execution models
+I tend to work by understanding a system first, making constraints and assumptions explicit, before moving to implementation. I’m especially interested in correctness, predictable behavior, and how systems evolve over time without losing coherence.
 
-### Background
-I studied at 42, where I’ve been working extensively on low-level C projects under
-real-world constraints: strict coding standards, safety requirements, concurrency,
-and performance.
+I’ve been interested in software and computer systems for over a decade. After several years of hands-on experimentation and personal projects, my focus today is increasingly on clarity: documentation, change management, version control, and working effectively within existing codebases and teams.
 
-These projects helped me build a strong understanding of how software behaves at
-runtime and how design decisions impact correctness and robustness.
+📌 **Featured work**
+- **[system-design](https://github.com/tuncay-basak/system-design)** — a specification-first, baseline-driven system design template
+- **[helix](https://github.com/tuncay-basak/helix)** — an experimental runtime project currently in the design and exploration phase
 
-In parallel, I’ve been exploring Rust deeply, focusing on designing APIs and runtimes
-that maximize compile-time guarantees, make invalid states unrepresentable, and favor
-explicit, predictable behavior over implicit magic.
-
-### Current work
-I'm currently working on **Helix**, a statically-typed runtime framework in Rust
-exploring how compile-time knowledge can replace runtime checks, improve robustness,
-and reduce overhead, while keeping a clear execution boundary and deterministic behavior.
-
-I care about long-term maintainability, correctness, and understanding what the machine
-actually does.
+🧠 **Background**
+Low-level programming (C, Rust), Linux, concurrency, and type-driven API design.  
+Backend-oriented web development (JavaScript, TypeScript, Node.js).  
+Comfortable joining existing codebases and working within established constraints.
